@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=X1r0z&show_icons=true&include_all_commits=true" />
 
-Student, NJUPT
+Student, X1cT34m
 
 Blog: [exp10it.cn](https://exp10it.cn)
 
