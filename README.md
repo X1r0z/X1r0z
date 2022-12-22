@@ -4,6 +4,10 @@
 
 Student, X1cT34m
 
+Web CTFer
+
+Currently learning Web Security, Java Security and Penetration test
+
 Blog: [exp10it.cn](https://exp10it.cn)
 
 Email: [i@exp10it.cn](mailto:i@exp10it.cn)
