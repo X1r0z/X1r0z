@@ -4,7 +4,7 @@
 
 Student, NJUPT
 
-Web CTFer in X1cT34m and Nu1L Team
+Web CTFer in X1cT34m & Nu1L Team
 
 Currently learning Web Security, Java Security and Penetration test
 
