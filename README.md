@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=X1r0z&show_icons=true&include_all_commits=true" />
 
-Student in NJUPT
+Student, NJUPT
 
 Web CTFer in X1cT34m and Nu1L Team
 
