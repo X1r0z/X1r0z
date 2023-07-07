@@ -22,4 +22,4 @@ Email: [i@exp10it.cn](mailto:i@exp10it.cn)
 
 ## Badges
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/X1r0z.png" alt="TryHackMe">
+![tryhackme stats](https://raw.githubusercontent.com/X1r0z/X1r0z/main/assets/thm_propic.png)
