@@ -21,7 +21,3 @@ Email: [i@exp10it.cn](mailto:i@exp10it.cn)
 | CVE-ID | Vendor | Product | Type | CVSS |
 | :----: | :----: | :----: | :----: | :----: |
 | [CVE-2023-21931](https://www.oracle.com/security-alerts/cpuapr2023.html) | Oracle | WebLogic Server | RCE | 7.5 |
-
-## Badges
-
-![tryhackme stats](https://raw.githubusercontent.com/X1r0z/X1r0z/main/assets/thm_propic.png)
