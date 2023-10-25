@@ -1,4 +1,4 @@
-### Hi there 👋
+### About Me 👋
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=X1r0z&show_icons=true&include_all_commits=true" />
 
@@ -6,9 +6,11 @@ ID: X1r0z (xz)
 
 Student, NJUPT
 
-Web CTFer in X1cT34m & Nu1L Team & Straw Hat
+Web CTFer in [X1cT34m](https://ctf.njupt.edu.cn/) & [Nu1L Team](https://www.nu1l.com/) & [Straw Hat](https://strawhat.team/)
 
-Currently learning Web Security, Java Security, Cloud Security and RedTeam
+Mainly focus on Web and Java Security
+
+But also interested in .NET/Active Directory/Cloud Security
 
 Blog: [exp10it.cn](https://exp10it.cn)
 
