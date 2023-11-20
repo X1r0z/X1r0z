@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=X1r0z&show_icons=true&include_all_commits=true" />
 
-ID: X1r0z (xz)
+ID: X1r0z
 
 Student, NJUPT
 
