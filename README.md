@@ -10,8 +10,8 @@ Mainly focus on Web and Java Security
 
 But also interested in .NET/Active Directory/Cloud Security
 
-Blog: [exp10it.cn](https://exp10it.cn)
+Blog: [exp10it.io](https://exp10it.io)
 
-Email: [i@exp10it.cn](mailto:i@exp10it.cn)
+Email: [i@exp10it.io](mailto:i@exp10it.io)
 
 My CVE List: [SECURITY.md](SECURITY.md)
