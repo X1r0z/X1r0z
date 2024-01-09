@@ -4,7 +4,7 @@
 
 Student, NJUPT
 
-Web CTFer in [X1cT34m](https://ctf.njupt.edu.cn/) & [Nu1L Team](https://www.nu1l.com/) & [Straw Hat](https://strawhat.team/)
+Web Security, [X1cT34m](https://ctf.njupt.edu.cn/) & [Nu1L Team](https://www.nu1l.com/)
 
 Mainly focus on Web and Java Security
 
