@@ -1,6 +1,6 @@
 ## About Me 👋
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=X1r0z&show_icons=true&include_all_commits=true" />
+7
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=X1r0z&show_icons=true&include_all_commits=true&count_private=true" />
 
 Student, NJUPT
 
