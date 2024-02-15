@@ -6,9 +6,7 @@ Student, NJUPT
 
 Web Security, [X1cT34m](https://ctf.njupt.edu.cn/) & [Nu1L Team](https://www.nu1l.com/) & [Straw Hat](https://strawhat.team/)
 
-Currently focus on Java and .NET Security research
-
-Also interested in Active Directory/Cloud Native
+Intrested in Java/.NET/Active Directory/Cloud Native
 
 Blog: [exp10it.io](https://exp10it.io)
 
