@@ -6,8 +6,6 @@ Student, NJUPT
 
 Web Security, [X1cT34m](https://ctf.njupt.edu.cn/) & [Nu1L Team](https://www.nu1l.com/) & [Straw Hat](https://strawhat.team/)
 
-Intrested in Java/.NET/Active Directory/Cloud Native
-
 Blog: [exp10it.io](https://exp10it.io)
 
 Email: [i@exp10it.io](mailto:i@exp10it.io)
