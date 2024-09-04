@@ -10,4 +10,6 @@ Blog: [exp10it.io](https://exp10it.io)
 
 Email: [i@exp10it.io](mailto:i@exp10it.io)
 
+Work Experience: [WORK.md](WORK.md)
+
 My CVE List: [SECURITY.md](SECURITY.md)
