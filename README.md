@@ -2,9 +2,11 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=X1r0z&show_icons=true&include_all_commits=true&count_private=true" />
 
-Student, NJUPT
+Undergraduate student at Nanjing University of Posts and Telecommunications (NJUPT)
 
-Web Security, [X1cT34m](https://ctf.njupt.edu.cn/) & [Nu1L Team](https://www.nu1l.com/) & [Straw Hat](https://strawhat.team/)
+Focus on Web Security (mostly Java application security), Red Team Pentest, Cloud Security and Blockchain (recently)
+
+CTF player in [X1cT34m](https://ctf.njupt.edu.cn/) & [Nu1L Team](https://www.nu1l.com/) & [Straw Hat](https://strawhat.team/)
 
 Blog: [exp10it.io](https://exp10it.io)
 
