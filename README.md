@@ -6,7 +6,7 @@ Undergraduate student at Nanjing University of Posts and Telecommunications (NJU
 
 Focus on Web Security (mostly Java application security), Red Team Pentest, Cloud Security and Blockchain (recently)
 
-CTF player in [X1cT34m](https://ctf.njupt.edu.cn/) & [Nu1L Team](https://www.nu1l.com/) & [Straw Hat](https://strawhat.team/)
+CTF player in [Nu1L Team](https://www.nu1l.com/) and [Straw Hat](https://strawhat.team/)
 
 Blog: [exp10it.io](https://exp10it.io)
 
