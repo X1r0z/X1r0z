@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=X1r0z&show_icons=true&include_all_commits=true&count_private=true" />
 
-Third-year undergraduate student at Nanjing University of Posts and Telecommunications (NJUPT)
+Fourth-year undergraduate student at Nanjing University of Posts and Telecommunications (NJUPT)
 
 Focus on Web Security (mostly Java application security), Red Team Pentest and Cloud Security
 
