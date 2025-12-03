@@ -4,7 +4,7 @@
 
 Fourth-year undergraduate student at Nanjing University of Posts and Telecommunications (NJUPT)
 
-Focus on Web Security (mostly Java application security), Red Team Pentest and Cloud Security
+Focus on Web Application Security (mostly Java and Go), Cloud Native and LLMs
 
 CTF player at [X1cT34m](https://ctf.njupt.edu.cn/), [Nu1L Team](https://www.nu1l.com/) and [Straw Hat](https://strawhat.team/)
 
