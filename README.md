@@ -6,10 +6,8 @@ Fourth-year undergraduate student at Nanjing University of Posts and Telecommuni
 
 Focus on Web Application Security (mostly Java and Go), Cloud Native and LLMs
 
-CTF player at [X1cT34m](https://ctf.njupt.edu.cn/), [Nu1L Team](https://www.nu1l.com/) and [Straw Hat](https://strawhat.team/)
+CTF player at [X1cT34m](https://ctf.njupt.edu.cn/) and [Nu1L Team](https://www.nu1l.com/)
 
 Blog: [exp10it.io](https://exp10it.io)
 
 Email: [i@exp10it.io](mailto:i@exp10it.io)
-
-My CVE List: [SECURITY.md](SECURITY.md)
