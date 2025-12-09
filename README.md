@@ -1,6 +1,6 @@
 ## About Me 👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=X1r0z&show_icons=true&include_all_commits=true&count_private=true" />
+<img align="right" src="https://github-readme-stats-exp10it-io.vercel.app/api?username=X1r0z&show_icons=true&include_all_commits=true&count_private=true" />
 
 Fourth-year undergraduate student at Nanjing University of Posts and Telecommunications (NJUPT)
 
