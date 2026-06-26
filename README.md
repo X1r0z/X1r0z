@@ -6,7 +6,7 @@ Web Security Engineer at ByteDance
 
 Graduated from Nanjing University of Posts and Telecommunications (NJUPT)
 
-Focus on Web Application Security (mostly Java and Go) and LLMs
+Focus on Web Application Security and LLMs
 
 CTF player at [X1cT34m](https://ctf.njupt.edu.cn/) and [Nu1L Team](https://www.nu1l.com/)
 
